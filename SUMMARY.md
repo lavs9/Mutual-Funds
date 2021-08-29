@@ -9,4 +9,6 @@
     * [NAV Updates](rta-integration/meta-details-for-integration/nav-updates.md)
     * [Scheme Meta Details](rta-integration/meta-details-for-integration/scheme-meta-details.md)
   * [Folio Management](rta-integration/folio-management.md)
+  * [SIP Book Management](rta-integration/sip-book-management.md)
+  * [Redemption](rta-integration/redemption.md)
 
